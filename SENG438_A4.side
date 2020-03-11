@@ -1,0 +1,21 @@
+{
+  "id": "a21c692e-20e6-45af-b456-c083688eae8c",
+  "version": "2.0",
+  "name": "SENG438_A4",
+  "url": "",
+  "tests": [{
+    "id": "a40517ef-47ff-44d6-b230-c2879ddaeb18",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "2f92c3a8-396b-4055-8953-a071bfb1afd9",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["a40517ef-47ff-44d6-b230-c2879ddaeb18"]
+  }],
+  "urls": [],
+  "plugins": []
+}
